@@ -1,0 +1,5 @@
+.git
+MANIFEST.SKIP
+MANIFEST.bak
+Makefile.old
+blib/
